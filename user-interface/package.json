@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://github.com/upscaletech/finocial.ui",
   "engines": {
-    "node": "^20.20.0"
+    "node": "20.x"
   },
   "dependencies": {
     "@babel/core": "7.4.3",
